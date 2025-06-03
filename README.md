@@ -2,4 +2,5 @@
 
 ### Working as student
 ### Currently learning C# (Unity)
-### Current number of good repositories: 4
+### Current number of good repositories: 4(5)
+### Current goal: master the "learn, code, sleep" technique
