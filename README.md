@@ -6,5 +6,6 @@
 ### 🔖 Current number of good repositories: 6
 ### 🔺 Current goal: learn how to not rage while playing competitive games
 
-🎲 Random quote:
+#### 🎲 Random quote:
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
