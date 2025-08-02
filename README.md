@@ -1,4 +1,5 @@
-# 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎, 𝚊𝚐𝚊𝚒𝚗.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C50000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile+%F0%9F%91%8B;Myself+Daniel+Snadon)](https://git.io/typing-svg)
+##
 ### ✅ My website -> %Work In Progress%
 #### 🎓 Working as [student]
 #### 🤔 Currently learning C#, HTML, CSS, Unity
