@@ -12,6 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DanielSnadon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSnadon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 #### 📈 roadmap.sh Progress:
-[![roadmap.sh](https://roadmap.sh/card/wide/6876c1cc7bd19b70d0c88ddb?variant=dark&roadmaps=game-developer%2Cfrontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6876c1cc7bd19b70d0c88ddb?variant=dark&roadmaps=%2Cgame-developer%2Cfrontend)](https://roadmap.sh)
 #### 🎲 Random quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
