@@ -2,7 +2,7 @@
 ##
 ### ✅ My website -> %Work In Progress%
 #### 🎓 Working as [student]
-#### 🤔 Currently learning HTML/CSS, Computer Graphics
+#### 🤔 Currently learning HTML/CSS, C#, Game Development Fundamentals
 #### 🔖 Current number of 'good' repositories: 10
 #### 🔺 Current goal: develop wonderful projects
 #### 💻 Tech Stack:
