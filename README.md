@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C50000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile+%F0%9F%91%8B;Myself+Daniel+Snadon)](https://git.io/typing-svg)
 ##
-### ✅ My website -> %Work In Progress%
 #### 🎓 Working as [student]
 #### 🤔 Currently learning HTML/CSS, C#, Game Development Fundamentals
 #### 🔖 Current number of 'good' repositories: 11
@@ -11,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=DanielSnadon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DanielSnadon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSnadon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-#### 📈 roadmap.sh Progress:
-[![roadmap.sh](https://roadmap.sh/card/wide/6876c1cc7bd19b70d0c88ddb?variant=dark&roadmaps=)](https://roadmap.sh)
+#### 📈 roadmap.sh Progress (14.09.25):
+[![roadmap.sh](https://roadmap.sh/card/wide/6876c1cc7bd19b70d0c88ddb?variant=dark&roadmaps=game-developer%2Cprompt-engineering%2Cgit-github%2Cfrontend)](https://roadmap.sh)
 #### 🎲 Random quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
