@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Azeret+Mono&size=30&pause=1000&color=F7F7F7&width=435&lines=Myself++Daniel++Snadon++%F0%9F%A5%9E;Welcome++to++my++profile++%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Azeret+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Myself++Daniel++Snadon++%F0%9F%A5%9E;Welcome++to++my++profile++%F0%9F%91%8B)](https://git.io/typing-svg)
 ##
 #### 🎓 Working as [student]
 #### 🤔 Currently learning HTML/CSS, C#, С++, C, Foundations of OS, Git, Unity, Psychology
