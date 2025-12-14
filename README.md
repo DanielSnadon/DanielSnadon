@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Azeret+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Myself++Daniel++Snadon++%F0%9F%A5%9E;Welcome++to++my++profile++%F0%9F%91%8B)](https://git.io/typing-svg)
 ##
-#### 🎓 Working as [student]
+#### 🎓 Working as [student].
 #### 🤔 Currently learning JavaScript, HTML/CSS, C#, С++, C, Unity, Psychology
 #### 🔖 Current number of repositories: 28
 #### 🔺 Current goal: meet a lot of people
