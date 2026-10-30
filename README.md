@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=4000&pause=1000&color=F77167&center=true&vCenter=true&random=true&width=435&lines=Game+designer;Psychologist;Frontend+developer;Artist;Pasta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Game+designer;Psychologist;Frontend+developer;Artist;Pasta)](https://git.io/typing-svg)
 
 💬 I’m currently working as full-time student<br>💬 I’m currently learning cybersecurity, German language and Chinese philosophy<br>💬 I'm currently open for any ideas and collaborations
 
